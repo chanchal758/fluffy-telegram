@@ -1,0 +1,28 @@
+#include <iostream>
+
+using namespace std;
+
+Int main() {
+
+Int numSubjects;
+
+float grade, credit, totalPoints 8, totalCredits = 0;
+
+cout << "Enter the number of subjects: ";
+
+cin >> numSubjects;
+
+for (int i=1; i < numSubjects; ++i) (
+
+cout << "Enter grade point for subject <<i<<" (e.g., 10 for At, 9 for A, etc.): ";
+
+cin >> grade;
+
+cout << "Enter credit hours for subject <<<i<<<":";
+
+cin >> credit;
+
+totalPoints + grade credit;
+
+totalCredits += credit;
+}
